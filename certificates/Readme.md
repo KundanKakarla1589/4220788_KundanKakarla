@@ -1,5 +1,7 @@
 # 4220788_KundanKakarla
 
+![image_alt](https://github.com/KundanKakarla1589/4220788_KundanKakarla/blob/main/1b5cd06f-f21f-42c3-8841-b84d50114ddc.jpg?raw=true)
+
 ![image alt](https://github.com/KundanKakarla1589/4220788_KundanKakarla/blob/64360ce02a22595374c486cbaebe9ffb219ba7b6/Certificates/Great_Learning_Score.png)
 
 ![image alt](https://github.com/KundanKakarla1589/4220788_KundanKakarla/blob/main/Simplilearn_Certificate_Git.png?raw=true)
